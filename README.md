@@ -7,13 +7,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/parshant4597/leetcode-practice/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/parshant4597/leetcode-practice/tree/master/0078-subsets) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/parshant4597/leetcode-practice/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/parshant4597/leetcode-practice/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/parshant4597/leetcode-practice/tree/master/0078-subsets) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Tree
 |  |
