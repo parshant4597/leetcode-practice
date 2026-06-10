@@ -1,26 +1,24 @@
 class Solution {
+    int n ; 
     List<List<Integer>> ansList ; 
-    public void solve(int indx , int[] nums , int k  , ArrayList<Integer> arr){
+    public void solve(int indx , int k  , ArrayList<Integer> arr){
          
-        if(arr.size() == k){
+        if(k == 0 ){
             ansList.add(new ArrayList<>(arr));
             return ; 
         }
-        if(indx == nums.length){
+        if(indx == n+1){
             return  ; 
         }
-        arr.add(nums[indx]);
-        solve(indx +1 , nums , k , arr);
+        arr.add(indx);
+        solve(indx +1   , k - 1 , arr);
         arr.remove(arr.size() -1);
-        solve(indx + 1 , nums , k , arr);
+        solve(indx + 1   , k , arr);
     }
     public List<List<Integer>> combine(int n, int k) {
-        int[] nums = new int[n];
-        for(int i = 0 ; i < n ; i++){
-            nums[i] = i +1 ; 
-        }
+         this.n = n ; 
         ansList = new ArrayList<>();
-        solve(0 , nums , k , new ArrayList<>());
+        solve(1  , k , new ArrayList<>());
         return ansList ; 
 
         
