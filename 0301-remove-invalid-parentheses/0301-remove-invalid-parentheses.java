@@ -4,24 +4,15 @@ class Solution {
     //sb.deleteCharAt(sb.length() - 1).
     public void solve(int indx , StringBuilder sb , int open , int close , Stack<Character> st){
         if(indx == s.length()){
-            if(!st.isEmpty()){
-                return ; 
-            }
-            if(open == 0 && close == 0){
-                if(!ansList.contains(sb.toString())){
-                    ansList.add(sb.toString());
+            if(st.isEmpty() && open == 0 && close == 0 && !ansList.contains(sb.toString())){ 
+                ansList.add(sb.toString());
                  return  ;
-                }else{
-                    return ; 
-                }
             }else{
                 return ; 
             }
-            
         }
         char ch = s.charAt(indx);
         if(ch == '('){
-             
             // take  ;
             st.push(ch);
             sb.append(ch);
@@ -33,7 +24,6 @@ class Solution {
                  open--;
             solve(indx + 1 , sb , open , close  , st);
             open++;
-                
             }
             
         }else if(ch == ')'){
@@ -63,7 +53,6 @@ class Solution {
             sb.append(ch);
             solve(indx + 1, sb, open, close, st);
             sb.deleteCharAt(sb.length() - 1);
-
         }
 
     }
@@ -98,9 +87,6 @@ class Solution {
         this.ansList = new ArrayList<>();
         StringBuilder sb = new StringBuilder();
         solve(0 ,  sb, open , close   , new Stack<>());
-        return ansList ; 
-
-
-        
+        return ansList ;         
     }
 }
