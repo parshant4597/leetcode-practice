@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/parshant4597/leetcode-practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/parshant4597/leetcode-practice/tree/master/0079-word-search) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/parshant4597/leetcode-practice/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1834-single-threaded-cpu](https://github.com/parshant4597/leetcode-practice/tree/master/1834-single-threaded-cpu) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/parshant4597/leetcode-practice/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1834-single-threaded-cpu](https://github.com/parshant4597/leetcode-practice/tree/master/1834-single-threaded-cpu) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3691-maximum-total-subarray-value-ii) |
 ## String
 |  |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1673-find-the-most-competitive-subsequence](https://github.com/parshant4597/leetcode-practice/tree/master/1673-find-the-most-competitive-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [1834-single-threaded-cpu](https://github.com/parshant4597/leetcode-practice/tree/master/1834-single-threaded-cpu) |
 <!---LeetCode Topics End-->
