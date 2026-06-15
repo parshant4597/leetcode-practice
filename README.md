@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/parshant4597/leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/parshant4597/leetcode-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/parshant4597/leetcode-practice/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/parshant4597/leetcode-practice/tree/master/0078-subsets) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/parshant4597/leetcode-practice/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/parshant4597/leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/parshant4597/leetcode-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/parshant4597/leetcode-practice/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/parshant4597/leetcode-practice/tree/master/0077-combinations) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/parshant4597/leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/parshant4597/leetcode-practice/tree/master/0079-word-search) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/parshant4597/leetcode-practice/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 ## Enumeration
@@ -144,5 +147,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/parshant4597/leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0160-intersection-of-two-linked-lists](https://github.com/parshant4597/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
