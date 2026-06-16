@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/parshant4597/leetcode-practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/parshant4597/leetcode-practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/parshant4597/leetcode-practice/tree/master/0079-word-search) |
+| [0905-sort-array-by-parity](https://github.com/parshant4597/leetcode-practice/tree/master/0905-sort-array-by-parity) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/parshant4597/leetcode-practice/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1834-single-threaded-cpu](https://github.com/parshant4597/leetcode-practice/tree/master/1834-single-threaded-cpu) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/parshant4597/leetcode-practice/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/parshant4597/leetcode-practice/tree/master/0075-sort-colors) |
+| [0905-sort-array-by-parity](https://github.com/parshant4597/leetcode-practice/tree/master/0905-sort-array-by-parity) |
 | [1834-single-threaded-cpu](https://github.com/parshant4597/leetcode-practice/tree/master/1834-single-threaded-cpu) |
 ## Simulation
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/parshant4597/leetcode-practice/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/parshant4597/leetcode-practice/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/parshant4597/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0905-sort-array-by-parity](https://github.com/parshant4597/leetcode-practice/tree/master/0905-sort-array-by-parity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/parshant4597/leetcode-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
 |  |
