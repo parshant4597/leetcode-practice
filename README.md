@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/parshant4597/leetcode-practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/parshant4597/leetcode-practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/parshant4597/leetcode-practice/tree/master/0079-word-search) |
+| [0287-find-the-duplicate-number](https://github.com/parshant4597/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/parshant4597/leetcode-practice/tree/master/0905-sort-array-by-parity) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/parshant4597/leetcode-practice/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1834-single-threaded-cpu](https://github.com/parshant4597/leetcode-practice/tree/master/1834-single-threaded-cpu) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/parshant4597/leetcode-practice/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/parshant4597/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Tree
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/parshant4597/leetcode-practice/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/parshant4597/leetcode-practice/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/parshant4597/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0287-find-the-duplicate-number](https://github.com/parshant4597/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/parshant4597/leetcode-practice/tree/master/0905-sort-array-by-parity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/parshant4597/leetcode-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
@@ -162,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/parshant4597/leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0160-intersection-of-two-linked-lists](https://github.com/parshant4597/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/parshant4597/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
