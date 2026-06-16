@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/parshant4597/leetcode-practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/parshant4597/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/parshant4597/leetcode-practice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/parshant4597/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/parshant4597/leetcode-practice/tree/master/0132-palindrome-partitioning-ii) |
@@ -102,12 +103,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/parshant4597/leetcode-practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/parshant4597/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/parshant4597/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/parshant4597/leetcode-practice/tree/master/0132-palindrome-partitioning-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/parshant4597/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/parshant4597/leetcode-practice/tree/master/0143-reorder-list) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/parshant4597/leetcode-practice/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Monotonic Stack
