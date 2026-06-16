@@ -35,10 +35,11 @@ class Solution {
             indx++;
         }
         indx++;
+       
         StringBuilder sb = new StringBuilder();
-        sb.append((char)(indx+'0'));
+        sb.append((char)(indx+'0')); 
         solve(indx, n, k, sb);
-        return ansList.get(k - st - 1).toString();
+        return ansList.get(k - st  - 1).toString();
 
     }
 }
