@@ -8,13 +8,11 @@ class Solution {
         int[] ans = new int[nums.length ];
         int indx = right ; 
         while(left <= right){
-            if(nums[left] <= nums[right]){
-                ans[indx] = nums[right];
+            ans[indx] = Math.max(nums[right] , nums[left]);
                 indx--;
+            if(nums[left] <= nums[right]){
                 right--;
             }else{
-                ans[indx] = nums[left];
-                indx--;
                 left++;
             }
             
