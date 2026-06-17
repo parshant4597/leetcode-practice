@@ -6,7 +6,7 @@ class Solution {
         while(left <= right){
             int water = Math.min(arr[left] , arr[right])*(right - left);
             area = Math.max(water   , area);
-            if(arr[left] <= arr[right]){
+            if(arr[left] < arr[right]){
                 left++;
             }else{
                 right--;
