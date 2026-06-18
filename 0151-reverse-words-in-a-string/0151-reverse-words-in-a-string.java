@@ -15,7 +15,7 @@ class Solution {
             left = right ; 
         
         }
-        sb.deleteCharAt(sb.length()-1);
+       
         // remove st 
         int i = 0 ; 
         while(i < sb.length() && sb.charAt(i) == ' '){
