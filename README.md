@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/parshant4597/leetcode-practice/tree/master/0079-word-search) |
 | [0238-product-of-array-except-self](https://github.com/parshant4597/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/parshant4597/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
+| [0845-longest-mountain-in-array](https://github.com/parshant4597/leetcode-practice/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/parshant4597/leetcode-practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/parshant4597/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/parshant4597/leetcode-practice/tree/master/0989-add-to-array-form-of-integer) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/parshant4597/leetcode-practice/tree/master/0845-longest-mountain-in-array) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/parshant4597/leetcode-practice/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 ## Dynamic Programming
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/parshant4597/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/parshant4597/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/parshant4597/leetcode-practice/tree/master/0132-palindrome-partitioning-ii) |
+| [0845-longest-mountain-in-array](https://github.com/parshant4597/leetcode-practice/tree/master/0845-longest-mountain-in-array) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Stack
 |  |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/parshant4597/leetcode-practice/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/parshant4597/leetcode-practice/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/parshant4597/leetcode-practice/tree/master/0844-backspace-string-compare) |
+| [0845-longest-mountain-in-array](https://github.com/parshant4597/leetcode-practice/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/parshant4597/leetcode-practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/parshant4597/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/parshant4597/leetcode-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
