@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/parshant4597/leetcode-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/parshant4597/leetcode-practice/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1834-single-threaded-cpu](https://github.com/parshant4597/leetcode-practice/tree/master/1834-single-threaded-cpu) |
+| [1840-maximum-building-height](https://github.com/parshant4597/leetcode-practice/tree/master/1840-maximum-building-height) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/parshant4597/leetcode-practice/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/parshant4597/leetcode-practice/tree/master/0060-permutation-sequence) |
 | [0989-add-to-array-form-of-integer](https://github.com/parshant4597/leetcode-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/parshant4597/leetcode-practice/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1840-maximum-building-height](https://github.com/parshant4597/leetcode-practice/tree/master/1840-maximum-building-height) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/parshant4597/leetcode-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Matrix
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/parshant4597/leetcode-practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/parshant4597/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1834-single-threaded-cpu](https://github.com/parshant4597/leetcode-practice/tree/master/1834-single-threaded-cpu) |
+| [1840-maximum-building-height](https://github.com/parshant4597/leetcode-practice/tree/master/1840-maximum-building-height) |
 ## Simulation
 |  |
 | ------- |
