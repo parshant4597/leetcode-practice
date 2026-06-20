@@ -26,13 +26,11 @@ class Solution {
                 solve(x , y - 1  , 3 , matrix , num);
             }
         }else{
-            if (x - 1 < 0 || matrix[x - 1][y] != 0) {
-        // Turn RIGHT (dir = 1) and move right
-        solve(x, y + 1, 1, matrix, num); 
-    } else {
-        // Continue UP (dir = 4)
-        solve(x - 1, y, 4, matrix, num); 
-    }
+            if(x-1 < 0 || matrix[x-1][y] != 0 ){
+                solve(x , y +1  , 1 , matrix , num);
+            }else{
+                solve(x - 1 ,y , 4 , matrix , num);
+            }
         }
 
     }
