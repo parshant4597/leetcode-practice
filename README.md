@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/parshant4597/leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/parshant4597/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/parshant4597/leetcode-practice/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/parshant4597/leetcode-practice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/parshant4597/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/parshant4597/leetcode-practice/tree/master/0132-palindrome-partitioning-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/parshant4597/leetcode-practice/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/parshant4597/leetcode-practice/tree/master/0060-permutation-sequence) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/parshant4597/leetcode-practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/parshant4597/leetcode-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/parshant4597/leetcode-practice/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/parshant4597/leetcode-practice/tree/master/0059-spiral-matrix-ii) |
 | [0844-backspace-string-compare](https://github.com/parshant4597/leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [3838-weighted-word-mapping](https://github.com/parshant4597/leetcode-practice/tree/master/3838-weighted-word-mapping) |
