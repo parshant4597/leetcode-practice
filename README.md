@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/parshant4597/leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0443-string-compression](https://github.com/parshant4597/leetcode-practice/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/parshant4597/leetcode-practice/tree/master/0541-reverse-string-ii) |
+| [0844-backspace-string-compare](https://github.com/parshant4597/leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [2938-separate-black-and-white-balls](https://github.com/parshant4597/leetcode-practice/tree/master/2938-separate-black-and-white-balls) |
 | [3838-weighted-word-mapping](https://github.com/parshant4597/leetcode-practice/tree/master/3838-weighted-word-mapping) |
 ## Math
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/parshant4597/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/parshant4597/leetcode-practice/tree/master/0143-reorder-list) |
+| [0844-backspace-string-compare](https://github.com/parshant4597/leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/parshant4597/leetcode-practice/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Monotonic Stack
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/parshant4597/leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [3838-weighted-word-mapping](https://github.com/parshant4597/leetcode-practice/tree/master/3838-weighted-word-mapping) |
 ## Linked List
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/parshant4597/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/parshant4597/leetcode-practice/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/parshant4597/leetcode-practice/tree/master/0541-reverse-string-ii) |
+| [0844-backspace-string-compare](https://github.com/parshant4597/leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/parshant4597/leetcode-practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/parshant4597/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/parshant4597/leetcode-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
