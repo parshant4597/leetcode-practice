@@ -8,13 +8,11 @@ class Solution {
             map.put(s1.charAt(i), map.getOrDefault(s1.charAt(i), 0) + 1);
         }
 
-        for(int i = 0; i <= n2 - n1; i++){ // changed from < to <=
+        for(int i = 0; i <= n2 - n1; i++){ 
             HashMap<Character , Integer> map2 = new HashMap<>();
-            
-            for(int j = i ; j < i + n1 ; j++){ // fixed loop variable (was incorrectly using i++)
-                map2.put(s2.charAt(j), map2.getOrDefault(s2.charAt(j), 0) + 1); // was wrongly using map instead of map2
+            for(int j = i ; j < i + n1 ; j++){  
+                map2.put(s2.charAt(j), map2.getOrDefault(s2.charAt(j), 0) + 1); 
             }
-
             int count = 0;
             for (Map.Entry<Character, Integer> entry : map.entrySet()) {
                 Character key = entry.getKey();
