@@ -30,11 +30,7 @@ class Solution {
             str[i] = changed;
 
         }
-        String ansres = "";
-        for (int i = 0; i < s.length(); i++) {
-            ansres += str[i];
-        }
-        return ansres;
+        return new String(str);
 
     }
 }
