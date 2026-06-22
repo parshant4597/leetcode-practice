@@ -17,19 +17,16 @@ class Solution {
         diffarr[0] = diff[0];
         for (int i = 1; i < s.length(); i++) {
             diffarr[i] = diffarr[i - 1] + diff[i];
-        }
-        System.out.println(Arrays.toString(diffarr));
+        } 
         char[] str = s.toCharArray();
         for (int i = 0; i < s.length(); i++) {
             char ch = str[i];
-            // logic to change ;
             // logic to change ;
             int shift = diffarr[i] % 26;
             if (shift < 0) {
                 shift += 26; 
             }
             char changed = (char) ('a' + (ch - 'a' + shift) % 26);
-
             str[i] = changed;
 
         }
