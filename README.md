@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/parshant4597/leetcode-practice/tree/master/2381-shifting-letters-ii) |
 | [2536-increment-submatrices-by-one](https://github.com/parshant4597/leetcode-practice/tree/master/2536-increment-submatrices-by-one) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/parshant4597/leetcode-practice/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3355-zero-array-transformation-i](https://github.com/parshant4597/leetcode-practice/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3356-zero-array-transformation-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/parshant4597/leetcode-practice/tree/master/1840-maximum-building-height) |
 | [1943-describe-the-painting](https://github.com/parshant4597/leetcode-practice/tree/master/1943-describe-the-painting) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/parshant4597/leetcode-practice/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/parshant4597/leetcode-practice/tree/master/0732-my-calendar-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/parshant4597/leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/parshant4597/leetcode-practice/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3356-zero-array-transformation-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3356-zero-array-transformation-ii) |
 ## Prefix Sum
 |  |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/parshant4597/leetcode-practice/tree/master/2381-shifting-letters-ii) |
 | [2536-increment-submatrices-by-one](https://github.com/parshant4597/leetcode-practice/tree/master/2536-increment-submatrices-by-one) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/parshant4597/leetcode-practice/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3355-zero-array-transformation-i](https://github.com/parshant4597/leetcode-practice/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3356-zero-array-transformation-ii) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/parshant4597/leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/parshant4597/leetcode-practice/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/parshant4597/leetcode-practice/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Counting Sort
 |  |
 | ------- |
