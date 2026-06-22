@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1943-describe-the-painting](https://github.com/parshant4597/leetcode-practice/tree/master/1943-describe-the-painting) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/parshant4597/leetcode-practice/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2381-shifting-letters-ii](https://github.com/parshant4597/leetcode-practice/tree/master/2381-shifting-letters-ii) |
+| [2536-increment-submatrices-by-one](https://github.com/parshant4597/leetcode-practice/tree/master/2536-increment-submatrices-by-one) |
 | [3355-zero-array-transformation-i](https://github.com/parshant4597/leetcode-practice/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3356-zero-array-transformation-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/parshant4597/leetcode-practice/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/parshant4597/leetcode-practice/tree/master/0079-word-search) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/parshant4597/leetcode-practice/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
+| [2536-increment-submatrices-by-one](https://github.com/parshant4597/leetcode-practice/tree/master/2536-increment-submatrices-by-one) |
 ## Enumeration
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/parshant4597/leetcode-practice/tree/master/1854-maximum-population-year) |
 | [1943-describe-the-painting](https://github.com/parshant4597/leetcode-practice/tree/master/1943-describe-the-painting) |
 | [2381-shifting-letters-ii](https://github.com/parshant4597/leetcode-practice/tree/master/2381-shifting-letters-ii) |
+| [2536-increment-submatrices-by-one](https://github.com/parshant4597/leetcode-practice/tree/master/2536-increment-submatrices-by-one) |
 | [3355-zero-array-transformation-i](https://github.com/parshant4597/leetcode-practice/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3356-zero-array-transformation-ii) |
 ## Sliding Window
