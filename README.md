@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3355-zero-array-transformation-i](https://github.com/parshant4597/leetcode-practice/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3356-zero-array-transformation-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3838-weighted-word-mapping](https://github.com/parshant4597/leetcode-practice/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-increment-submatrices-by-one](https://github.com/parshant4597/leetcode-practice/tree/master/2536-increment-submatrices-by-one) |
 | [3355-zero-array-transformation-i](https://github.com/parshant4597/leetcode-practice/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3356-zero-array-transformation-ii) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -302,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0731-my-calendar-ii](https://github.com/parshant4597/leetcode-practice/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/parshant4597/leetcode-practice/tree/master/0732-my-calendar-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 <!---LeetCode Topics End-->
