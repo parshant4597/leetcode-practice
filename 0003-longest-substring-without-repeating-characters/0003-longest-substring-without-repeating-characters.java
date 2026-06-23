@@ -5,23 +5,22 @@ class Solution {
         int r = 0;
         int len = 0;
         Set<Character> set = new HashSet<>();
-        while (left < n || r < n) {
+        while (left < n &&  r < n) {
             int count = 0;
             while (r < n) {
                 char ch = s.charAt(r);
-                if (!set.contains(ch)){
+                if (!set.contains(ch)) {
                     set.add(ch);
                     r++;
-
-                }else{
-                   break;
+                } else {
+                    break;
                 }
             }
             set.remove(s.charAt(left));
-            len = Math.max(len , r - left  );
-            left++;
-             
+            len = Math.max(len, r - left); 
+                left++;
+        
         }
-return len ; 
+        return len;
     }
 }
