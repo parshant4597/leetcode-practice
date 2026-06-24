@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/parshant4597/leetcode-practice/tree/master/1854-maximum-population-year) |
 | [1943-describe-the-painting](https://github.com/parshant4597/leetcode-practice/tree/master/1943-describe-the-painting) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/parshant4597/leetcode-practice/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/parshant4597/leetcode-practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2381-shifting-letters-ii](https://github.com/parshant4597/leetcode-practice/tree/master/2381-shifting-letters-ii) |
 | [2536-increment-submatrices-by-one](https://github.com/parshant4597/leetcode-practice/tree/master/2536-increment-submatrices-by-one) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/parshant4597/leetcode-practice/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/parshant4597/leetcode-practice/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/parshant4597/leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/parshant4597/leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/parshant4597/leetcode-practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/parshant4597/leetcode-practice/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2381-shifting-letters-ii](https://github.com/parshant4597/leetcode-practice/tree/master/2381-shifting-letters-ii) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/parshant4597/leetcode-practice/tree/master/2516-take-k-of-each-character-from-left-and-right) |
@@ -327,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/parshant4597/leetcode-practice/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
