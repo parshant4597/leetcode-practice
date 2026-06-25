@@ -6,7 +6,7 @@ class Solution {
             int end = nums[i]+k ;
             arr.add(new int[]{st , 1});
             arr.add(new int[]{end+1 , -1});
-            arr.add(new int[]{nums[i] , 0 });
+             
         }
         Collections.sort(arr , (a, b) ->{
             if(a[0] == b[0])return a[1] - b[1];
