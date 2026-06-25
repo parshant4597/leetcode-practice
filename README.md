@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/parshant4597/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/parshant4597/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/parshant4597/leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/parshant4597/leetcode-practice/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/parshant4597/leetcode-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/parshant4597/leetcode-practice/tree/master/0257-binary-tree-paths) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/parshant4597/leetcode-practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/parshant4597/leetcode-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/parshant4597/leetcode-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/parshant4597/leetcode-practice/tree/master/0257-binary-tree-paths) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/parshant4597/leetcode-practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/parshant4597/leetcode-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/parshant4597/leetcode-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/parshant4597/leetcode-practice/tree/master/0257-binary-tree-paths) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/parshant4597/leetcode-practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Greedy
 |  |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/parshant4597/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/parshant4597/leetcode-practice/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/parshant4597/leetcode-practice/tree/master/0844-backspace-string-compare) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/parshant4597/leetcode-practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1189-maximum-number-of-balloons](https://github.com/parshant4597/leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/parshant4597/leetcode-practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/parshant4597/leetcode-practice/tree/master/2337-move-pieces-to-obtain-a-string) |
