@@ -18,10 +18,9 @@ class Solution {
     int prev = -1;
     public void solve(TreeNode root , String res){
         if(root.left == null && root.right == null){ 
-            res += root.val;
-            if(!list.contains(res)){
+            res += root.val; 
                 list.add(res);
-            }
+            
             return ; 
         }  
         res += root.val+ "->";     
