@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/parshant4597/leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0731-my-calendar-ii](https://github.com/parshant4597/leetcode-practice/tree/master/0731-my-calendar-ii) |
 | [0845-longest-mountain-in-array](https://github.com/parshant4597/leetcode-practice/tree/master/0845-longest-mountain-in-array) |
+| [0904-fruit-into-baskets](https://github.com/parshant4597/leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/parshant4597/leetcode-practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/parshant4597/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/parshant4597/leetcode-practice/tree/master/0989-add-to-array-form-of-integer) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/parshant4597/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/parshant4597/leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/parshant4597/leetcode-practice/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/parshant4597/leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/parshant4597/leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1943-describe-the-painting](https://github.com/parshant4597/leetcode-practice/tree/master/1943-describe-the-painting) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/parshant4597/leetcode-practice/tree/master/2516-take-k-of-each-character-from-left-and-right) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parshant4597/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/parshant4597/leetcode-practice/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/parshant4597/leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/parshant4597/leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/parshant4597/leetcode-practice/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/parshant4597/leetcode-practice/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
