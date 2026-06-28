@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/parshant4597/leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/parshant4597/leetcode-practice/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/parshant4597/leetcode-practice/tree/master/1109-corporate-flight-bookings) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/parshant4597/leetcode-practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/parshant4597/leetcode-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/parshant4597/leetcode-practice/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parshant4597/leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/parshant4597/leetcode-practice/tree/master/1094-car-pooling) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/parshant4597/leetcode-practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1834-single-threaded-cpu](https://github.com/parshant4597/leetcode-practice/tree/master/1834-single-threaded-cpu) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3691-maximum-total-subarray-value-ii) |
 ## String
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/parshant4597/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/parshant4597/leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/parshant4597/leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/parshant4597/leetcode-practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/parshant4597/leetcode-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parshant4597/leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/parshant4597/leetcode-practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0731-my-calendar-ii](https://github.com/parshant4597/leetcode-practice/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/parshant4597/leetcode-practice/tree/master/0732-my-calendar-iii) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/parshant4597/leetcode-practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -404,4 +408,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/parshant4597/leetcode-practice/tree/master/0986-interval-list-intersections) |
+## Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/parshant4597/leetcode-practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/parshant4597/leetcode-practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
