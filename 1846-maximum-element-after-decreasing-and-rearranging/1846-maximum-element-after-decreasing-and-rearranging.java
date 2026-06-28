@@ -11,8 +11,7 @@ class Solution {
                 arr[i] = prev + 1;
             }
             prev = arr[i]; 
-        }
-        System.out.println(Arrays.toString(arr));
+        } 
         return arr[arr.length - 1];
     }
 }
