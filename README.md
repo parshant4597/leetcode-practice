@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/parshant4597/leetcode-practice/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/parshant4597/leetcode-practice/tree/master/0060-permutation-sequence) |
+| [0202-happy-number](https://github.com/parshant4597/leetcode-practice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/parshant4597/leetcode-practice/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/parshant4597/leetcode-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/parshant4597/leetcode-practice/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/parshant4597/leetcode-practice/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/parshant4597/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/parshant4597/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/parshant4597/leetcode-practice/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/parshant4597/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/parshant4597/leetcode-practice/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/parshant4597/leetcode-practice/tree/master/0541-reverse-string-ii) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/parshant4597/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/parshant4597/leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0160-intersection-of-two-linked-lists](https://github.com/parshant4597/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/parshant4597/leetcode-practice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/parshant4597/leetcode-practice/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/parshant4597/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/parshant4597/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
