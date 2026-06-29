@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/parshant4597/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/parshant4597/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/parshant4597/leetcode-practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/parshant4597/leetcode-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/parshant4597/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/parshant4597/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/parshant4597/leetcode-practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/parshant4597/leetcode-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/parshant4597/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/parshant4597/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/parshant4597/leetcode-practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Greedy
