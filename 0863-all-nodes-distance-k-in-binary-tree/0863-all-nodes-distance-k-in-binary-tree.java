@@ -56,13 +56,12 @@ class Solution {
                     set.add(node.right);
                 }
                 TreeNode parent = map.get(node);
-                if (node == root)
-                    continue;
-                if (!set.contains(map.get(node))) {
+
+                if (parent != null && !set.contains(parent)) {
                     if (time == k)
-                        arr.add(map.get(node).val);
-                    qu.offer(map.get(node));
-                    set.add(map.get(node));
+                    arr.add(parent.val);
+                    qu.offer(parent);
+                    set.add(parent);
                 }
 
             }
