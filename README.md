@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/parshant4597/leetcode-practice/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/parshant4597/leetcode-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/parshant4597/leetcode-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/parshant4597/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/parshant4597/leetcode-practice/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/parshant4597/leetcode-practice/tree/master/0060-permutation-sequence) |
 | [0202-happy-number](https://github.com/parshant4597/leetcode-practice/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/parshant4597/leetcode-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/parshant4597/leetcode-practice/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/parshant4597/leetcode-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/parshant4597/leetcode-practice/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/parshant4597/leetcode-practice/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/parshant4597/leetcode-practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/parshant4597/leetcode-practice/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/parshant4597/leetcode-practice/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
