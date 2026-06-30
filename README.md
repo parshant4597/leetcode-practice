@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/parshant4597/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/parshant4597/leetcode-practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/parshant4597/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/parshant4597/leetcode-practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/parshant4597/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/parshant4597/leetcode-practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/parshant4597/leetcode-practice/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Trie
 |  |
@@ -450,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/parshant4597/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0501-find-mode-in-binary-search-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
