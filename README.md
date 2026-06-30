@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/parshant4597/leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/parshant4597/leetcode-practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1189-maximum-number-of-balloons](https://github.com/parshant4597/leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/parshant4597/leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/parshant4597/leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/parshant4597/leetcode-practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/parshant4597/leetcode-practice/tree/master/2337-move-pieces-to-obtain-a-string) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/parshant4597/leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/parshant4597/leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/parshant4597/leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parshant4597/leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1943-describe-the-painting](https://github.com/parshant4597/leetcode-practice/tree/master/1943-describe-the-painting) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/parshant4597/leetcode-practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/parshant4597/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/parshant4597/leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/parshant4597/leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/parshant4597/leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/parshant4597/leetcode-practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/parshant4597/leetcode-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parshant4597/leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
