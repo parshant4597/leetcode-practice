@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/parshant4597/leetcode-practice/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/parshant4597/leetcode-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/parshant4597/leetcode-practice/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/parshant4597/leetcode-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/parshant4597/leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/parshant4597/leetcode-practice/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Greedy
 |  |
