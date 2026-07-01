@@ -1,6 +1,6 @@
 class Solution {
     public int mySqrt(int x) {
-        return (int)findSquareRoot(x , 100);
+        return (int)findSquareRoot(x , 22);
     }
  
     public   double findSquareRoot(double number, int iterations) {
