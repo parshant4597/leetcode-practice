@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/parshant4597/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/parshant4597/leetcode-practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/parshant4597/leetcode-practice/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/parshant4597/leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/parshant4597/leetcode-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/parshant4597/leetcode-practice/tree/master/0040-combination-sum-ii) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/parshant4597/leetcode-practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/parshant4597/leetcode-practice/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/parshant4597/leetcode-practice/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/parshant4597/leetcode-practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/parshant4597/leetcode-practice/tree/master/0389-find-the-difference) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/parshant4597/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/parshant4597/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/parshant4597/leetcode-practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/parshant4597/leetcode-practice/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/parshant4597/leetcode-practice/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/parshant4597/leetcode-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/parshant4597/leetcode-practice/tree/master/0086-partition-list) |
