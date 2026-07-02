@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/parshant4597/leetcode-practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3026-maximum-good-subarray-sum](https://github.com/parshant4597/leetcode-practice/tree/master/3026-maximum-good-subarray-sum) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/parshant4597/leetcode-practice/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/parshant4597/leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/parshant4597/leetcode-practice/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3355-zero-array-transformation-i](https://github.com/parshant4597/leetcode-practice/tree/master/3355-zero-array-transformation-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/parshant4597/leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/parshant4597/leetcode-practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1834-single-threaded-cpu](https://github.com/parshant4597/leetcode-practice/tree/master/1834-single-threaded-cpu) |
 | [2762-continuous-subarrays](https://github.com/parshant4597/leetcode-practice/tree/master/2762-continuous-subarrays) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/parshant4597/leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3691-maximum-total-subarray-value-ii) |
 ## String
 |  |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/parshant4597/leetcode-practice/tree/master/0079-word-search) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/parshant4597/leetcode-practice/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2536-increment-submatrices-by-one](https://github.com/parshant4597/leetcode-practice/tree/master/2536-increment-submatrices-by-one) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/parshant4597/leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Enumeration
 |  |
 | ------- |
@@ -530,4 +534,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/parshant4597/leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/parshant4597/leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/parshant4597/leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
