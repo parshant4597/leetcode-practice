@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3355-zero-array-transformation-i](https://github.com/parshant4597/leetcode-practice/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3356-zero-array-transformation-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/parshant4597/leetcode-practice/tree/master/3620-network-recovery-pathways) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3838-weighted-word-mapping](https://github.com/parshant4597/leetcode-practice/tree/master/3838-weighted-word-mapping) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/parshant4597/leetcode-practice/tree/master/1834-single-threaded-cpu) |
 | [2762-continuous-subarrays](https://github.com/parshant4597/leetcode-practice/tree/master/2762-continuous-subarrays) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/parshant4597/leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/parshant4597/leetcode-practice/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3691-maximum-total-subarray-value-ii) |
 ## String
 |  |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/parshant4597/leetcode-practice/tree/master/0845-longest-mountain-in-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/parshant4597/leetcode-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/parshant4597/leetcode-practice/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/parshant4597/leetcode-practice/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Stack
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/parshant4597/leetcode-practice/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3356-zero-array-transformation-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3356-zero-array-transformation-ii) |
+| [3620-network-recovery-pathways](https://github.com/parshant4597/leetcode-practice/tree/master/3620-network-recovery-pathways) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -553,8 +557,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/parshant4597/leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/parshant4597/leetcode-practice/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/parshant4597/leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/parshant4597/leetcode-practice/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/parshant4597/leetcode-practice/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
