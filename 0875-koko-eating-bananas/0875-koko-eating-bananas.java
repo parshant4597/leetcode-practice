@@ -20,11 +20,8 @@ class Solution {
     public boolean check(int mid , int[] piles , int h){
         long count = 0 ; 
         for(int i = 0 ; i < piles.length ; i++){
-            if(piles[i]%mid == 0){
-                count += piles[i]/mid ;
-            }else{
-                count += piles[i]/mid + 1;
-            } 
+
+                count += (piles[i]+mid - 1)/mid;
         }
         return count <= h ; 
     }
