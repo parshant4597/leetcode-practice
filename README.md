@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/parshant4597/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/parshant4597/leetcode-practice/tree/master/0731-my-calendar-ii) |
 | [0845-longest-mountain-in-array](https://github.com/parshant4597/leetcode-practice/tree/master/0845-longest-mountain-in-array) |
+| [0875-koko-eating-bananas](https://github.com/parshant4597/leetcode-practice/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/parshant4597/leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/parshant4597/leetcode-practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/parshant4597/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/parshant4597/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/parshant4597/leetcode-practice/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/parshant4597/leetcode-practice/tree/master/0732-my-calendar-iii) |
+| [0875-koko-eating-bananas](https://github.com/parshant4597/leetcode-practice/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/parshant4597/leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/parshant4597/leetcode-practice/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parshant4597/leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
