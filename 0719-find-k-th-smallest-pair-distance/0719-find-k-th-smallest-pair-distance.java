@@ -2,28 +2,23 @@ import java.util.Arrays;
 
 class Solution {
     public int smallestDistancePair(int[] nums, int k) {
-        // 1. Sort the array so we can use a sliding window
         Arrays.sort(nums);
         
         int left = 0;
         int right = nums[nums.length - 1] - nums[0];
-        
-        // 2. Binary search on the distance range
+         
         while (left < right) {
             int mid = left + (right - left) / 2;
             
-            // Count how many pairs have a distance <= mid
             if (countPairs(nums, mid) >= k) {
-                right = mid; // Try to find a smaller valid distance
+                right = mid; 
             } else {
-                left = mid + 1; // The distance is too small
+                left = mid + 1;  
             }
         }
         
         return left;
-    }
-    
-    // Helper function to count pairs with distance <= target using sliding window
+    } 
     private int countPairs(int[] nums, int target) {
         int count = 0;
         int left = 0;
