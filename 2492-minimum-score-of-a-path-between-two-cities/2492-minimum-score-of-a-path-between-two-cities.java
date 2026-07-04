@@ -38,7 +38,7 @@ class Solution {
             int u = road[0];
             int v = road[1];
             int cost = road[2];
-            if(dsu.findparent(u) == dsu.findparent(1)) min = Math.min(min , cost);
+            if(dsu.findparent(v) == dsu.findparent(1)) min = Math.min(min , cost);
         }  
         return min;
     }
