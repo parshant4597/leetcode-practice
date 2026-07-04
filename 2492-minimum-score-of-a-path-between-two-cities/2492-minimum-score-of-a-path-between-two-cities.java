@@ -1,23 +1,46 @@
-class Solution {
-    int find(int[] root, int i) {
-        if (root[i] == i)
-            return i;
-        return root[i] = find(root, root[i]);
+class DSU {
+    int[] parent;
+
+    public DSU(int n) {
+        parent = new int[n + 1];
+        for (int i = 1; i <= n; i++)
+            parent[i] = i;
     }
 
+    public int findparent(int u) {
+        if (parent[u] == u)
+            return u;
+        return parent[u] = findparent(parent[u]);
+    }
+
+    public void union(int u, int v) {
+        int up = findparent(u);
+        int vp = findparent(v);
+
+        if (up == vp)
+            return;
+
+        parent[vp] = up;
+    }
+}
+
+class Solution {
     public int minScore(int n, int[][] roads) {
-        int[] root = new int[n + 1];
-        for (int i = 0; i <= n; i++)
-            root[i] = i;
 
-        for (int[] r : roads)
-            root[find(root, r[0])] = find(root, r[1]);
+        DSU dsu = new DSU(n);
 
-        int res = 10001;
-        for (int[] r : roads)
-            if (find(root, r[0]) == find(root, 1))
-                res = Math.min(res, r[2]);
+        for (int[] road : roads) {
+            dsu.union(road[0], road[1]);
+        }
 
-        return res;
+        int ans = Integer.MAX_VALUE;
+
+        for (int[] road : roads) {
+            if (dsu.findparent(road[0]) == dsu.findparent(1)) {
+                ans = Math.min(ans, road[2]);
+            }
+        }
+
+        return ans;
     }
 }
