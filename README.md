@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/parshant4597/leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/parshant4597/leetcode-practice/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/parshant4597/leetcode-practice/tree/master/1109-corporate-flight-bookings) |
+| [1288-remove-covered-intervals](https://github.com/parshant4597/leetcode-practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/parshant4597/leetcode-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/parshant4597/leetcode-practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/parshant4597/leetcode-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/parshant4597/leetcode-practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/parshant4597/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/parshant4597/leetcode-practice/tree/master/1094-car-pooling) |
+| [1288-remove-covered-intervals](https://github.com/parshant4597/leetcode-practice/tree/master/1288-remove-covered-intervals) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/parshant4597/leetcode-practice/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1833-maximum-ice-cream-bars](https://github.com/parshant4597/leetcode-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/parshant4597/leetcode-practice/tree/master/1834-single-threaded-cpu) |
