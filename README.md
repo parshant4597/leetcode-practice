@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/parshant4597/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/parshant4597/leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parshant4597/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0706-design-hashmap](https://github.com/parshant4597/leetcode-practice/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/parshant4597/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/parshant4597/leetcode-practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0731-my-calendar-ii](https://github.com/parshant4597/leetcode-practice/tree/master/0731-my-calendar-ii) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/parshant4597/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/parshant4597/leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/parshant4597/leetcode-practice/tree/master/0328-odd-even-linked-list) |
+| [0706-design-hashmap](https://github.com/parshant4597/leetcode-practice/tree/master/0706-design-hashmap) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/parshant4597/leetcode-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/parshant4597/leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/parshant4597/leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/parshant4597/leetcode-practice/tree/master/0567-permutation-in-string) |
+| [0706-design-hashmap](https://github.com/parshant4597/leetcode-practice/tree/master/0706-design-hashmap) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/parshant4597/leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/parshant4597/leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0706-design-hashmap](https://github.com/parshant4597/leetcode-practice/tree/master/0706-design-hashmap) |
 | [0731-my-calendar-ii](https://github.com/parshant4597/leetcode-practice/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/parshant4597/leetcode-practice/tree/master/0732-my-calendar-iii) |
 ## Ordered Set
@@ -556,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/parshant4597/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
+| [0706-design-hashmap](https://github.com/parshant4597/leetcode-practice/tree/master/0706-design-hashmap) |
 ## Interactive
 |  |
 | ------- |
