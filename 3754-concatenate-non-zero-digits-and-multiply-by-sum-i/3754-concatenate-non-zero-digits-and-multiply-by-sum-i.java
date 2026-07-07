@@ -17,9 +17,7 @@ class Solution {
             n = n/10 ;  
             num = num*10 + rem; 
             sum += rem; 
-
-        }
-        System.out.println(num + " " + sum );
+        } 
         return num*sum ; 
 
     }
