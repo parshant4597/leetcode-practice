@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3355-zero-array-transformation-i](https://github.com/parshant4597/leetcode-practice/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3356-zero-array-transformation-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/parshant4597/leetcode-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/parshant4597/leetcode-practice/tree/master/3620-network-recovery-pathways) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/parshant4597/leetcode-practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/parshant4597/leetcode-practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3026-maximum-good-subarray-sum](https://github.com/parshant4597/leetcode-practice/tree/master/3026-maximum-good-subarray-sum) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/parshant4597/leetcode-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/parshant4597/leetcode-practice/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3356-zero-array-transformation-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3356-zero-array-transformation-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/parshant4597/leetcode-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/parshant4597/leetcode-practice/tree/master/3620-network-recovery-pathways) |
 ## Prefix Sum
 |  |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/parshant4597/leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/parshant4597/leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/parshant4597/leetcode-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/parshant4597/leetcode-practice/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -585,4 +589,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/parshant4597/leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/parshant4597/leetcode-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
