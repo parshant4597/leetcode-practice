@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/parshant4597/leetcode-practice/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2938-separate-black-and-white-balls](https://github.com/parshant4597/leetcode-practice/tree/master/2938-separate-black-and-white-balls) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/parshant4597/leetcode-practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/parshant4597/leetcode-practice/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3838-weighted-word-mapping](https://github.com/parshant4597/leetcode-practice/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/parshant4597/leetcode-practice/tree/master/0059-spiral-matrix-ii) |
 | [0844-backspace-string-compare](https://github.com/parshant4597/leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [1094-car-pooling](https://github.com/parshant4597/leetcode-practice/tree/master/1094-car-pooling) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/parshant4597/leetcode-practice/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3838-weighted-word-mapping](https://github.com/parshant4597/leetcode-practice/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parshant4597/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
