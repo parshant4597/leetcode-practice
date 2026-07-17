@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3026-maximum-good-subarray-sum](https://github.com/parshant4597/leetcode-practice/tree/master/3026-maximum-good-subarray-sum) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/parshant4597/leetcode-practice/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/parshant4597/leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/parshant4597/leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/parshant4597/leetcode-practice/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3355-zero-array-transformation-i](https://github.com/parshant4597/leetcode-practice/tree/master/3355-zero-array-transformation-i) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/parshant4597/leetcode-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/parshant4597/leetcode-practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/parshant4597/leetcode-practice/tree/master/1840-maximum-building-height) |
+| [3312-sorted-gcd-pair-queries](https://github.com/parshant4597/leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/parshant4597/leetcode-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/parshant4597/leetcode-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/parshant4597/leetcode-practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/parshant4597/leetcode-practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3026-maximum-good-subarray-sum](https://github.com/parshant4597/leetcode-practice/tree/master/3026-maximum-good-subarray-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/parshant4597/leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/parshant4597/leetcode-practice/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/parshant4597/leetcode-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/parshant4597/leetcode-practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/parshant4597/leetcode-practice/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/parshant4597/leetcode-practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/parshant4597/leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/parshant4597/leetcode-practice/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3356-zero-array-transformation-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3356-zero-array-transformation-ii) |
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/parshant4597/leetcode-practice/tree/master/2381-shifting-letters-ii) |
 | [2536-increment-submatrices-by-one](https://github.com/parshant4597/leetcode-practice/tree/master/2536-increment-submatrices-by-one) |
 | [3026-maximum-good-subarray-sum](https://github.com/parshant4597/leetcode-practice/tree/master/3026-maximum-good-subarray-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/parshant4597/leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/parshant4597/leetcode-practice/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3355-zero-array-transformation-i](https://github.com/parshant4597/leetcode-practice/tree/master/3355-zero-array-transformation-i) |
@@ -536,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/parshant4597/leetcode-practice/tree/master/1854-maximum-population-year) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/parshant4597/leetcode-practice/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/parshant4597/leetcode-practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/parshant4597/leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Design
 |  |
 | ------- |
@@ -620,6 +626,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/parshant4597/leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/parshant4597/leetcode-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parshant4597/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/parshant4597/leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
