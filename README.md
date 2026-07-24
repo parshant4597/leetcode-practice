@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/parshant4597/leetcode-practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/parshant4597/leetcode-practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2353-design-a-food-rating-system](https://github.com/parshant4597/leetcode-practice/tree/master/2353-design-a-food-rating-system) |
+| [2354-number-of-excellent-pairs](https://github.com/parshant4597/leetcode-practice/tree/master/2354-number-of-excellent-pairs) |
 | [2381-shifting-letters-ii](https://github.com/parshant4597/leetcode-practice/tree/master/2381-shifting-letters-ii) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/parshant4597/leetcode-practice/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/parshant4597/leetcode-practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/parshant4597/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/parshant4597/leetcode-practice/tree/master/0389-find-the-difference) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/parshant4597/leetcode-practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2354-number-of-excellent-pairs](https://github.com/parshant4597/leetcode-practice/tree/master/2354-number-of-excellent-pairs) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parshant4597/leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1943-describe-the-painting](https://github.com/parshant4597/leetcode-practice/tree/master/1943-describe-the-painting) |
 | [2353-design-a-food-rating-system](https://github.com/parshant4597/leetcode-practice/tree/master/2353-design-a-food-rating-system) |
+| [2354-number-of-excellent-pairs](https://github.com/parshant4597/leetcode-practice/tree/master/2354-number-of-excellent-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/parshant4597/leetcode-practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/parshant4597/leetcode-practice/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/parshant4597/leetcode-practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/parshant4597/leetcode-practice/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/parshant4597/leetcode-practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/parshant4597/leetcode-practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2354-number-of-excellent-pairs](https://github.com/parshant4597/leetcode-practice/tree/master/2354-number-of-excellent-pairs) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/parshant4597/leetcode-practice/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/parshant4597/leetcode-practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/parshant4597/leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
