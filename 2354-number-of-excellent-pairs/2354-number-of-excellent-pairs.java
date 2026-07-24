@@ -1,23 +1,25 @@
 import java.util.*;
 
 class Solution {
-    public long countExcellentPairs(int[] nums, int k) {
-        // 1. Deduplicate nums using a Set
-        Set<Integer> uniqueNums = new HashSet<>();
+    public long countExcellentPairs(int[] nums, int k) { 
+        Set<Integer> set = new HashSet<>();
         for (int num : nums) {
-            uniqueNums.add(num);
+            set.add(num);
         } 
-        long[] bitCounts = new long[32];
-        for (int num : uniqueNums) {
-            bitCounts[Integer.bitCount(num)]++;
-        }
-         
+        int[] bits = new int[set.size()];
+        int idx = 0;
+        for (int num : set) {
+            bits[idx++] = Integer.bitCount(num);
+        } 
+        Arrays.sort(bits); 
         long ans = 0;
-        for (int i = 0; i < 32; i++) {
-            for (int j = 0; j < 32; j++) {
-                if (i + j >= k) {
-                    ans += bitCounts[i] * bitCounts[j];
-                }
+        int l = 0, r = bits.length - 1;
+        while (l <= r) {
+            if (bits[l] + bits[r] >= k) { 
+                ans += 2L * (r - l) + 1;
+                r--;
+            } else {
+                l++;
             }
         }
         
