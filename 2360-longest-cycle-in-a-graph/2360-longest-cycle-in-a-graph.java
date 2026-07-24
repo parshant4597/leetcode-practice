@@ -7,7 +7,7 @@ class Solution {
             map.put(nei , map.get(node)+1);
             dfs(vis , nei , edges , map);
         }else if(nei != -1 && map.containsKey(nei)){
-            ans = Math.max(ans, map.get(node) - map.get(nei) + 1);
+            ans = Math.max(ans , Math.abs( map.get(nei) - map.get(node))+1);
         }
     }
     public int longestCycle(int[] edges) {
