@@ -21,8 +21,7 @@ class NumberContainers {
                 pq.offer(indx);
                 return indx ; 
             }
-        }
-        System.out.println(num);
+        } 
         return -1;
         
     }
