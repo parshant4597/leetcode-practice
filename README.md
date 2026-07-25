@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/parshant4597/leetcode-practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/parshant4597/leetcode-practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/parshant4597/leetcode-practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2350-shortest-impossible-sequence-of-rolls](https://github.com/parshant4597/leetcode-practice/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2353-design-a-food-rating-system](https://github.com/parshant4597/leetcode-practice/tree/master/2353-design-a-food-rating-system) |
 | [2354-number-of-excellent-pairs](https://github.com/parshant4597/leetcode-practice/tree/master/2354-number-of-excellent-pairs) |
 | [2381-shifting-letters-ii](https://github.com/parshant4597/leetcode-practice/tree/master/2381-shifting-letters-ii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/parshant4597/leetcode-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/parshant4597/leetcode-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/parshant4597/leetcode-practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2350-shortest-impossible-sequence-of-rolls](https://github.com/parshant4597/leetcode-practice/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2938-separate-black-and-white-balls](https://github.com/parshant4597/leetcode-practice/tree/master/2938-separate-black-and-white-balls) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parshant4597/leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1943-describe-the-painting](https://github.com/parshant4597/leetcode-practice/tree/master/1943-describe-the-painting) |
 | [2349-design-a-number-container-system](https://github.com/parshant4597/leetcode-practice/tree/master/2349-design-a-number-container-system) |
+| [2350-shortest-impossible-sequence-of-rolls](https://github.com/parshant4597/leetcode-practice/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2353-design-a-food-rating-system](https://github.com/parshant4597/leetcode-practice/tree/master/2353-design-a-food-rating-system) |
 | [2354-number-of-excellent-pairs](https://github.com/parshant4597/leetcode-practice/tree/master/2354-number-of-excellent-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/parshant4597/leetcode-practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
