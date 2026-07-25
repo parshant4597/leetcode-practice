@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/parshant4597/leetcode-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/parshant4597/leetcode-practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/parshant4597/leetcode-practice/tree/master/1840-maximum-building-height) |
+| [2338-count-the-number-of-ideal-arrays](https://github.com/parshant4597/leetcode-practice/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/parshant4597/leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/parshant4597/leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/parshant4597/leetcode-practice/tree/master/0845-longest-mountain-in-array) |
 | [1301-number-of-paths-with-max-score](https://github.com/parshant4597/leetcode-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/parshant4597/leetcode-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2338-count-the-number-of-ideal-arrays](https://github.com/parshant4597/leetcode-practice/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/parshant4597/leetcode-practice/tree/master/3620-network-recovery-pathways) |
@@ -655,11 +657,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2338-count-the-number-of-ideal-arrays](https://github.com/parshant4597/leetcode-practice/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/parshant4597/leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/parshant4597/leetcode-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parshant4597/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
 | ------- |
+| [2338-count-the-number-of-ideal-arrays](https://github.com/parshant4597/leetcode-practice/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/parshant4597/leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
