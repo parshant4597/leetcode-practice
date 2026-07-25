@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/parshant4597/leetcode-practice/tree/master/1094-car-pooling) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/parshant4597/leetcode-practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1834-single-threaded-cpu](https://github.com/parshant4597/leetcode-practice/tree/master/1834-single-threaded-cpu) |
+| [2349-design-a-number-container-system](https://github.com/parshant4597/leetcode-practice/tree/master/2349-design-a-number-container-system) |
 | [2353-design-a-food-rating-system](https://github.com/parshant4597/leetcode-practice/tree/master/2353-design-a-food-rating-system) |
 | [2762-continuous-subarrays](https://github.com/parshant4597/leetcode-practice/tree/master/2762-continuous-subarrays) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/parshant4597/leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parshant4597/leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parshant4597/leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1943-describe-the-painting](https://github.com/parshant4597/leetcode-practice/tree/master/1943-describe-the-painting) |
+| [2349-design-a-number-container-system](https://github.com/parshant4597/leetcode-practice/tree/master/2349-design-a-number-container-system) |
 | [2353-design-a-food-rating-system](https://github.com/parshant4597/leetcode-practice/tree/master/2353-design-a-food-rating-system) |
 | [2354-number-of-excellent-pairs](https://github.com/parshant4597/leetcode-practice/tree/master/2354-number-of-excellent-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/parshant4597/leetcode-practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/parshant4597/leetcode-practice/tree/master/0706-design-hashmap) |
 | [0731-my-calendar-ii](https://github.com/parshant4597/leetcode-practice/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/parshant4597/leetcode-practice/tree/master/0732-my-calendar-iii) |
+| [2349-design-a-number-container-system](https://github.com/parshant4597/leetcode-practice/tree/master/2349-design-a-number-container-system) |
 | [2353-design-a-food-rating-system](https://github.com/parshant4597/leetcode-practice/tree/master/2353-design-a-food-rating-system) |
 ## Ordered Set
 |  |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/parshant4597/leetcode-practice/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/parshant4597/leetcode-practice/tree/master/0732-my-calendar-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/parshant4597/leetcode-practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2349-design-a-number-container-system](https://github.com/parshant4597/leetcode-practice/tree/master/2349-design-a-number-container-system) |
 | [2353-design-a-food-rating-system](https://github.com/parshant4597/leetcode-practice/tree/master/2353-design-a-food-rating-system) |
 | [2762-continuous-subarrays](https://github.com/parshant4597/leetcode-practice/tree/master/2762-continuous-subarrays) |
 ## Divide and Conquer
