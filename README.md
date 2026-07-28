@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/parshant4597/leetcode-practice/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/parshant4597/leetcode-practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/parshant4597/leetcode-practice/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/parshant4597/leetcode-practice/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/parshant4597/leetcode-practice/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/parshant4597/leetcode-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/parshant4597/leetcode-practice/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/parshant4597/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/parshant4597/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/parshant4597/leetcode-practice/tree/master/0132-palindrome-partitioning-ii) |
+| [0233-number-of-digit-one](https://github.com/parshant4597/leetcode-practice/tree/master/0233-number-of-digit-one) |
 | [0337-house-robber-iii](https://github.com/parshant4597/leetcode-practice/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/parshant4597/leetcode-practice/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/parshant4597/leetcode-practice/tree/master/0647-palindromic-substrings) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/parshant4597/leetcode-practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/parshant4597/leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/parshant4597/leetcode-practice/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/parshant4597/leetcode-practice/tree/master/0233-number-of-digit-one) |
 ## Two Pointers
 |  |
 | ------- |
