@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/parshant4597/leetcode-practice/tree/master/0233-number-of-digit-one) |
 | [0337-house-robber-iii](https://github.com/parshant4597/leetcode-practice/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/parshant4597/leetcode-practice/tree/master/0410-split-array-largest-sum) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/parshant4597/leetcode-practice/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0647-palindromic-substrings](https://github.com/parshant4597/leetcode-practice/tree/master/0647-palindromic-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/parshant4597/leetcode-practice/tree/master/0845-longest-mountain-in-array) |
 | [0968-binary-tree-cameras](https://github.com/parshant4597/leetcode-practice/tree/master/0968-binary-tree-cameras) |
