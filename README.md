@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/parshant4597/leetcode-practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/parshant4597/leetcode-practice/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/parshant4597/leetcode-practice/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/parshant4597/leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3838-weighted-word-mapping](https://github.com/parshant4597/leetcode-practice/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/parshant4597/leetcode-practice/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/parshant4597/leetcode-practice/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/parshant4597/leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/parshant4597/leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parshant4597/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/parshant4597/leetcode-practice/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/parshant4597/leetcode-practice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/parshant4597/leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/parshant4597/leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
 |  |
 | ------- |
