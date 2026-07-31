@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/parshant4597/leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/parshant4597/leetcode-practice/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/parshant4597/leetcode-practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/parshant4597/leetcode-practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/parshant4597/leetcode-practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/parshant4597/leetcode-practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/parshant4597/leetcode-practice/tree/master/2350-shortest-impossible-sequence-of-rolls) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/parshant4597/leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parshant4597/leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/parshant4597/leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/parshant4597/leetcode-practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/parshant4597/leetcode-practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/parshant4597/leetcode-practice/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2353-design-a-food-rating-system](https://github.com/parshant4597/leetcode-practice/tree/master/2353-design-a-food-rating-system) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parshant4597/leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parshant4597/leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1943-describe-the-painting](https://github.com/parshant4597/leetcode-practice/tree/master/1943-describe-the-painting) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/parshant4597/leetcode-practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2349-design-a-number-container-system](https://github.com/parshant4597/leetcode-practice/tree/master/2349-design-a-number-container-system) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/parshant4597/leetcode-practice/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2353-design-a-food-rating-system](https://github.com/parshant4597/leetcode-practice/tree/master/2353-design-a-food-rating-system) |
@@ -665,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/parshant4597/leetcode-practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/parshant4597/leetcode-practice/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/parshant4597/leetcode-practice/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/parshant4597/leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -681,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/parshant4597/leetcode-practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2360-longest-cycle-in-a-graph](https://github.com/parshant4597/leetcode-practice/tree/master/2360-longest-cycle-in-a-graph) |
 | [3620-network-recovery-pathways](https://github.com/parshant4597/leetcode-practice/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
