@@ -10,8 +10,7 @@ class ATM {
         for (int i = 0; i < n; i++) {
         
             atm[i] += bank[i];
-        }
-        System.out.println(Arrays.toString(atm)); 
+        } 
     }
 
     public int[] withdraw(int amount) {
