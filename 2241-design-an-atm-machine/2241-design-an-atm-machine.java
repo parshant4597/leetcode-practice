@@ -75,8 +75,7 @@ class ATM {
 
             }
 
-        }
-        System.out.println(sum);
+        } 
         if (sum != 0) {
             int[] anns = { -1 };
             return anns;
