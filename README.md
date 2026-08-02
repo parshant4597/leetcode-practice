@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/parshant4597/leetcode-practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/parshant4597/leetcode-practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/parshant4597/leetcode-practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2241-design-an-atm-machine](https://github.com/parshant4597/leetcode-practice/tree/master/2241-design-an-atm-machine) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/parshant4597/leetcode-practice/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2353-design-a-food-rating-system](https://github.com/parshant4597/leetcode-practice/tree/master/2353-design-a-food-rating-system) |
 | [2354-number-of-excellent-pairs](https://github.com/parshant4597/leetcode-practice/tree/master/2354-number-of-excellent-pairs) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/parshant4597/leetcode-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/parshant4597/leetcode-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/parshant4597/leetcode-practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2241-design-an-atm-machine](https://github.com/parshant4597/leetcode-practice/tree/master/2241-design-an-atm-machine) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/parshant4597/leetcode-practice/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2938-separate-black-and-white-balls](https://github.com/parshant4597/leetcode-practice/tree/master/2938-separate-black-and-white-balls) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parshant4597/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/parshant4597/leetcode-practice/tree/master/0706-design-hashmap) |
 | [0731-my-calendar-ii](https://github.com/parshant4597/leetcode-practice/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/parshant4597/leetcode-practice/tree/master/0732-my-calendar-iii) |
+| [2241-design-an-atm-machine](https://github.com/parshant4597/leetcode-practice/tree/master/2241-design-an-atm-machine) |
 | [2349-design-a-number-container-system](https://github.com/parshant4597/leetcode-practice/tree/master/2349-design-a-number-container-system) |
 | [2353-design-a-food-rating-system](https://github.com/parshant4597/leetcode-practice/tree/master/2353-design-a-food-rating-system) |
 ## Ordered Set
