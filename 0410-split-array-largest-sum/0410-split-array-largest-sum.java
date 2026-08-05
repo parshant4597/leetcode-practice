@@ -2,36 +2,23 @@ class Solution {
     int[][] dp;
 
     public int solve(int indx, int[] prefix, int k, int n) {
-        // Base Case 1: If we reached the end of the array
-        if (indx == n) {
-            return (k == 0) ? 0 : (int) 1e9;
+        if(indx == n){
+             if(k != 0 ){
+            return (int)1e9 ; 
         }
-        // Base Case 2: If we run out of partitions but elements are still left
-        if (k == 0) {
-            return (int) 1e9;
+            return 0 ; 
         }
-        
-        // Return cached result if already calculated
-        if (dp[indx][k] != -1) {
-            return dp[indx][k];
+        if(k == 0 ){
+            return (int)1e9 ; 
         }
-
-        int take = (int) 1e9;
-
-        // Try splitting at every possible next index 'i'
-        for (int i = indx; i < n; i++) {
-            // Sum of current subarray from 'indx' to 'i'
-            int currentSubarraySum = prefix[i + 1] - prefix[indx];
-            
-            // We want the MAXIMUM configuration between the current subarray 
-            // and the remaining partitions
-            int maxForThisSplit = Math.max(currentSubarraySum, solve(i + 1, prefix, k - 1, n));
-            
-            // Minimize that maximum over all choices
-            take = Math.min(take, maxForThisSplit);
+        if(dp[indx][k] != -1)return dp[indx][k];
+        int ans = (int)1e9  ; 
+        for(int i = indx  ; i < n ; i++){
+            int sum = prefix[i+1] - prefix[indx];
+            int anns = solve(i+1 , prefix , k- 1, n) ; 
+            ans = Math.min( ans , Math.max(anns , sum));
         }
-
-        return dp[indx][k] = take;
+        return dp[indx][k] = ans ; 
     }
 
     public int splitArray(int[] nums, int k) {
