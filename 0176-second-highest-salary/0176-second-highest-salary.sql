@@ -18,7 +18,15 @@
 
 -- method 3 
 
-with table1 as (
-    select * , lead(salary) over(order by salary desc) as rnk from Employee 
-)
-select max(rnk) as SecondHighestSalary  from table1 where rnk != salary; 
+-- with table1 as (
+--     select * , lead(salary) over(order by salary desc) as rnk from Employee 
+-- )
+-- select max(rnk) as SecondHighestSalary  from table1 where rnk != salary; 
+
+-- method 4 
+SELECT (
+    SELECT DISTINCT salary 
+    FROM Employee 
+    ORDER BY salary DESC 
+    LIMIT 1 OFFSET 1
+) AS SecondHighestSalary;
