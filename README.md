@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/parshant4597/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/parshant4597/leetcode-practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/parshant4597/leetcode-practice/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/parshant4597/leetcode-practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/parshant4597/leetcode-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/parshant4597/leetcode-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/parshant4597/leetcode-practice/tree/master/0035-search-insert-position) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/parshant4597/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/parshant4597/leetcode-practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/parshant4597/leetcode-practice/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/parshant4597/leetcode-practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/parshant4597/leetcode-practice/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/parshant4597/leetcode-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/parshant4597/leetcode-practice/tree/master/0086-partition-list) |
